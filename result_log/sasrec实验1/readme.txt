@@ -1,0 +1,1 @@
+max_len=200, embedding_size = 10, l2_reg_embedding=0.001
